@@ -1,0 +1,14 @@
+{
+  "name": "token-list",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "head -n 1 < /dev/urandom > test.txt"
+  },
+  "author": "BondAppetit",
+  "license": "ISC",
+  "dependencies": {
+    "@bondappetit/networks": "^1.4.6"
+  }
+}
