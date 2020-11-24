@@ -36,7 +36,7 @@ jobs:
         git config --global user.name 'Bondappetit CI'
         git config --global user.email 'hello@bondappetit.io'
         cd $GITHUB_WORKSPACE
-#        git remote add origin https://${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY.git
+        git remote -v
         git add .
         git commit -m "new build ${{ github.event.release.tag_name }}"
         git push origin master
