@@ -28,10 +28,25 @@ jobs:
     - name: Archive artifacts
       uses: actions/upload-artifact@v2
       with:
-        name: networks-$GITHUB_REF-$GITHUB_SHA
+        name: tokenlist-$GITHUB_REF-$GITHUB_SHA
         path: |
           test.txt
           bondappetit.tokenlist.json
+
+  publish:
+    needs: build
+
+    strategy:
+      matrix:
+        platform: [ubuntu-latest]
+        node-version: [12.x]
+    runs-on: ${{ matrix.platform }}
+
+    steps:
+    - uses: actions/download-artifact@v2
+      with:
+        name: tokenlist-$GITHUB_REF-$GITHUB_SHA
+      working-directory: ./output
 
     - name: Clone master branch
       run: |
