@@ -43,16 +43,17 @@ jobs:
     runs-on: ${{ matrix.platform }}
 
     steps:
-    - uses: actions/download-artifact@v2
-      with:
-        name: tokenlist-$GITHUB_REF-$GITHUB_SHA
-      working-directory: ./output
-
     - name: Clone master branch
       run: |
         git config --global user.name "${GITHUB_ACTOR}"
         git config --global user.email "${GITHUB_ACTOR}@https://users.noreply.github.com/"
         git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY.git" --branch master --single-branch ./output
+
+    - name: Download artifacts
+      uses: actions/download-artifact@v2
+      with:
+        name: tokenlist-$GITHUB_REF-$GITHUB_SHA
+        path: ./output
 
     - name: Publish master branch
       run: |
