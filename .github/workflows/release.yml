@@ -41,4 +41,4 @@ jobs:
           cd $GITHUB_WORKSPACE
           git add .
           git commit -m "new build ${{ github.event.release.tag_name }}"
-          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/bondappetit/bondappetit-protocol.git master
+          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY.git master
