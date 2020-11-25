@@ -9,6 +9,6 @@
   "author": "BondAppetit",
   "license": "ISC",
   "dependencies": {
-    "@bondappetit/networks": "^1.4.6"
+    "@bondappetit/networks": "^1.4.8-ropsten-voting-test"
   }
 }
