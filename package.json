@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "build": "head -n 1 < /dev/urandom > test.txt"
+    "build": ""
   },
   "author": "BondAppetit",
   "license": "ISC",
