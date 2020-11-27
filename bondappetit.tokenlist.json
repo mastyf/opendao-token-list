@@ -1,377 +1,377 @@
 {
-  "name": "Bondappetit",
-  "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/bondappetit-interface.svg",
-  "keywords": [
-    "compound",
-    "defi"
-  ],
-  "timestamp": "2020-11-24T16:24:00.000+00:00",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
-      "name": "Sai Stablecoin v1.0",
-      "symbol": "SAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-      "name": "Compound",
-      "symbol": "COMP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 1,
-      "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
-      "name": "Reputation",
-      "symbol": "REP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "name": "USD Coin USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
-      "name": "Kyber Network Crystal",
-      "symbol": "KNC",
-      "decimals": 18
-    },
-    {
-      "chainId": 1,
-      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-      "name": "ChainLink Token",
-      "symbol": "LINK",
-      "decimals": 18
-    },
-    {
-      "chainId": 3,
-      "address": "0xE4C6182EA459E63B8F1be7c428381994CcC2D49c",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x516de3a7A567d81737e3a46ec4FF9cFD1fcb0136",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x1Fe16De955718CFAb7A44605458AB023838C2793",
-      "name": "Compound",
-      "symbol": "COMP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x443Fd8D5766169416aE42B8E050fE9422f628419",
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0xBde8bB00A7eF67007A96945B3a3621177B615C44",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 3,
-      "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
-      "name": "USD Coin USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x6FD34013CDD2905d8d27b0aDaD5b97B2345cF2B8",
-      "name": "Reputation",
-      "symbol": "REP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x26fF7457496600C63b3E8902C9f871E60eDec4e4",
-      "name": "Sai Stablecoin v1.0",
-      "symbol": "SAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x99Ba26a7AbCD7cbbaad7f83006ad454029CA6512",
-      "name": "BondAppetit Governance",
-      "symbol": "BOND",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BOND.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0x16bb954ad451fBF1860E0C01765D5bdE390EDaC6",
-      "name": "BondAppetit StableCoin",
-      "symbol": "ABT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ABT.svg"
-    },
-    {
-      "chainId": 4,
-      "address": "0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 4,
-      "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 4,
-      "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
-    },
-    {
-      "chainId": 4,
-      "address": "0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99",
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 4,
-      "address": "0x577D296678535e4903D59A4C929B718e1D575e0A",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 4,
-      "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
-      "name": "USD Coin USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
-    },
-    {
-      "chainId": 4,
-      "address": "0x6e894660985207feb7cf89Faf048998c71E8EE89",
-      "name": "Reputation",
-      "symbol": "REP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "0xe4E81Fa6B16327D4B78CFEB83AAdE04bA7075165",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "0xdc31Ee1784292379Fbb2964b3B9C4124D8F89C60",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "0xe16C7165C8FeA64069802aE4c4c9C320783f2b6e",
-      "name": "Compound",
-      "symbol": "COMP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "0x70cBa46d2e933030E2f274AE58c951C800548AeF",
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 5,
-      "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
-      "name": "USD Coin USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "0x183Faf58c4461972765f3F90c6272A4ecE66Bd96",
-      "name": "Reputation",
-      "symbol": "REP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "0x8e9192D6f9d903b1BEb3836F52a9f71E05846e42",
-      "name": "Sai Stablecoin v1.0",
-      "symbol": "SAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0xD1308F63823221518Ec88EB209CBaa1ac182105f",
-      "name": "Sai Stablecoin v1.0",
-      "symbol": "SAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0x07de306FF27a2B630B1141956844eB1552B956B5",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0x61460874a7196d6a22D1eE4922473664b3E95270",
-      "name": "Compound",
-      "symbol": "COMP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0x482dC9bB08111CB875109B075A40881E48aE02Cd",
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 42,
-      "address": "0x50DD65531676F718B018De3dc48F92B53D756996",
-      "name": "Reputation",
-      "symbol": "REP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
-      "name": "USD Coin USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
+    "name": "Bondappetit",
+    "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/bondappetit-interface.svg",
+    "keywords": [
+        "compound",
+        "defi"
+    ],
+    "timestamp": "2020-11-24T16:24:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+            "name": "Sai Stablecoin v1.0",
+            "symbol": "SAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+            "name": "Compound",
+            "symbol": "COMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+            "name": "Reputation",
+            "symbol": "REP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "name": "USD Coin USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+            "name": "Kyber Network Crystal",
+            "symbol": "KNC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "decimals": 18
+        },
+        {
+            "chainId": 3,
+            "address": "0xE4C6182EA459E63B8F1be7c428381994CcC2D49c",
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0x516de3a7a567d81737e3a46ec4ff9cfd1fcb0136",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0x1Fe16De955718CFAb7A44605458AB023838C2793",
+            "name": "Compound",
+            "symbol": "COMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0x443Fd8D5766169416aE42B8E050fE9422f628419",
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0xbde8bb00a7ef67007a96945b3a3621177b615c44",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 3,
+            "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0x6FD34013CDD2905d8d27b0aDaD5b97B2345cF2B8",
+            "name": "Reputation",
+            "symbol": "REP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0x26fF7457496600C63b3E8902C9f871E60eDec4e4",
+            "name": "Sai Stablecoin v1.0",
+            "symbol": "SAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0x99Ba26a7AbCD7cbbaad7f83006ad454029CA6512",
+            "name": "Bond",
+            "symbol": "BOND",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BOND.svg"
+        },
+        {
+            "chainId": 3,
+            "address": "0x16bb954ad451fBF1860E0C01765D5bdE390EDaC6",
+            "name": "ABT",
+            "symbol": "ABT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ABT.svg"
+        },
+        {
+            "chainId": 4,
+            "address": "0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6",
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
+        },
+        {
+            "chainId": 4,
+            "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
+        },
+        {
+            "chainId": 4,
+            "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
+        },
+        {
+            "chainId": 4,
+            "address": "0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99",
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
+        },
+        {
+            "chainId": 4,
+            "address": "0x577D296678535e4903D59A4C929B718e1D575e0A",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 4,
+            "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+            "name": "USD Coin USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
+        },
+        {
+            "chainId": 4,
+            "address": "0x6e894660985207feb7cf89Faf048998c71E8EE89",
+            "name": "Reputation",
+            "symbol": "REP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
+        },
+        {
+            "chainId": 5,
+            "address": "0xe4E81Fa6B16327D4B78CFEB83AAdE04bA7075165",
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
+        },
+        {
+            "chainId": 5,
+            "address": "0xdc31Ee1784292379Fbb2964b3B9C4124D8F89C60",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
+        },
+        {
+            "chainId": 5,
+            "address": "0xe16C7165C8FeA64069802aE4c4c9C320783f2b6e",
+            "name": "Compound",
+            "symbol": "COMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
+        },
+        {
+            "chainId": 5,
+            "address": "0x70cBa46d2e933030E2f274AE58c951C800548AeF",
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
+        },
+        {
+            "chainId": 5,
+            "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 5,
+            "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
+            "name": "USD Coin USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
+        },
+        {
+            "chainId": 5,
+            "address": "0x183Faf58c4461972765f3F90c6272A4ecE66Bd96",
+            "name": "Reputation",
+            "symbol": "REP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
+        },
+        {
+            "chainId": 5,
+            "address": "0x8e9192D6f9d903b1BEb3836F52a9f71E05846e42",
+            "name": "Sai Stablecoin v1.0",
+            "symbol": "SAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3",
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ZRX.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_DAI.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0xD1308F63823221518Ec88EB209CBaa1ac182105f",
+            "name": "Sai Stablecoin v1.0",
+            "symbol": "SAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_SAI.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0x07de306FF27a2B630B1141956844eB1552B956B5",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDT.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0x61460874a7196d6a22D1eE4922473664b3E95270",
+            "name": "Compound",
+            "symbol": "COMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_COMP.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0x482dC9bB08111CB875109B075A40881E48aE02Cd",
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BAT.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 42,
+            "address": "0x50DD65531676F718B018De3dc48F92B53D756996",
+            "name": "Reputation",
+            "symbol": "REP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_REP.svg"
+        },
+        {
+            "chainId": 42,
+            "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+            "name": "USD Coin USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_USDC.svg"
+        }
+    ],
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
     }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 1,
-    "patch": 0
-  }
 }
