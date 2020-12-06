@@ -4,11 +4,11 @@
   "description": "",
   "main": "",
   "scripts": {
-    "build": "nodejs src/regenerate.js"
+    "build": "node src/regenerate.js"
   },
   "author": "BondAppetit",
   "license": "ISC",
   "dependencies": {
-    "@bondappetit/networks": "^1.4.8-ropsten-voting-test"
+    "@bondappetit/networks": "^1.5.1-budget"
   }
 }
