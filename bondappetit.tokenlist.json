@@ -165,17 +165,17 @@
         },
         {
             "chainId": 3,
-            "address": "0x990081EBF8d5E2C3618a487998a159a2D8393FE3",
-            "name": "Bond",
-            "symbol": "BOND",
+            "address": "0x9a05c4E8BD3E85bB58919493168Aa052832F8D9a",
+            "name": "BondAppetit Governance",
+            "symbol": "BAG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_BOND.svg"
         },
         {
             "chainId": 3,
-            "address": "0x62fe44C98eC3221bF13674435F4fCD597f64ADED",
-            "name": "ABT",
-            "symbol": "ABT",
+            "address": "0x4cf45b5DF360E8dd57Aa09F67CcD1FcB0Eca5C1B",
+            "name": "Appetite USD",
+            "symbol": "USDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/bondappetit/token-list/master/assets/asset_ABT.svg"
         },
