@@ -9,6 +9,6 @@
   "author": "BondAppetit",
   "license": "ISC",
   "dependencies": {
-    "@bondappetit/networks": "^1.8.1"
+    "@bondappetit/networks": "^1.8.2"
   }
 }
