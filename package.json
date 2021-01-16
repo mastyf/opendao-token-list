@@ -1,14 +1,8 @@
 {
-  "name": "token-list",
+  "name": "opendao-token-list",
   "version": "0.0.1",
   "description": "",
   "main": "",
-  "scripts": {
-    "build": "node src/regenerate.js"
-  },
-  "author": "BondAppetit",
+  "author": "Mastyf",
   "license": "ISC",
-  "dependencies": {
-    "@bondappetit/networks": "^1.8.2"
-  }
 }
